@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Legacy Archives - Website Preservation Project</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+
+<body>
+    <div class="info-box">
+        <ul>
+            <dt>
+                <h1>Legacy Archives</h1>
+                <p>Last Updated: 1/03/2021 <br><br> </p>
+            </dt>
+            <p>	 
+                Welcome, Legacy Archives is a place to host obscure, or long lost websites. <br> <br>
+                Enjoy :)
+            </p>
+            <dt>
+                <h1>Contact</h1>
+            </dt>
+            <dt>
+                <a href="/Contact/index.html">
+                    <div>
+                        <h2>Links</h2>
+                    </div>
+                </a>
+            </dt>
+            <dt>
+                <h1>Website List A-Z</h1>
+            </dt>
+            <dt>
+            	<div class="site-entry">
+                <a class="slink" href="/Sites/site-CP/index.html" data-goatcounter-click="Cervena Paprika" data-goatcounter-title="Cervena Paprika">
+                    <div>
+                        <h2>ČERVENÁ PAPRIKA</h2>
+                    </div>
+                </a>
+                <p>[SK] Satire news and social commentary</p>
+                </div>
+            </dt>
+        </ul>
+    </div>
+    <script data-goatcounter="https://legacyarchives.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body>
+<!-- Nothing to see here -->
+</html>
