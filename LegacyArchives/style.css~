@@ -1,0 +1,36 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: radial-gradient(#002B33, #000033);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 5%;
+    min-height: 100vh;
+    
+}
+
+.info-box {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    border-color: #FA421E;
+    border-left-style: solid;
+    border-left-width: 2px;
+    padding: 1%;
+}
+a {
+    text-decoration: none;
+    color: #FF2A00;
+}
+
+.site-entry {
+	background-color: #FF2A00;
+	color: black;
+	padding: 5px;
+	padding-left: 15px;
+}
+
+a.site-entry {
+	text-decoration: underline;
+	color: black;
+}
